@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: b7d7c41355436244780a2182310ce28f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wasteland bg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f798276aed442a444ba0534b750f89c3
+      internalID: -802343538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland bg_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16bf5f5d6cea643a4de5dcfe038a1d
+      internalID: 1673816577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland bg_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 160
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274d72686267e69428e47c4bc546a6a4
+      internalID: 1804094516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasteland bg_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 97
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2f8a2696acd943bad255dbff63a03
+      internalID: -1931278664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      wasteland bg_0: -802343538
+      wasteland bg_1: 1673816577
+      wasteland bg_10: -981676405
+      wasteland bg_11: -1129372348
+      wasteland bg_12: -1816822123
+      wasteland bg_13: 853887447
+      wasteland bg_14: -199495655
+      wasteland bg_15: 212344893
+      wasteland bg_16: -497446887
+      wasteland bg_17: -447701579
+      wasteland bg_18: -1553599032
+      wasteland bg_19: -411881812
+      wasteland bg_2: 1804094516
+      wasteland bg_20: 1710691648
+      wasteland bg_21: -462917267
+      wasteland bg_22: -638776660
+      wasteland bg_23: -141109037
+      wasteland bg_24: -439534980
+      wasteland bg_25: 1825036666
+      wasteland bg_26: 1082255084
+      wasteland bg_27: 982029266
+      wasteland bg_28: -1302828211
+      wasteland bg_29: 279630232
+      wasteland bg_3: -1931278664
+      wasteland bg_30: 1760635371
+      wasteland bg_31: -494985090
+      wasteland bg_32: 1631544936
+      wasteland bg_33: -1494536580
+      wasteland bg_34: 990797474
+      wasteland bg_35: 95731492
+      wasteland bg_36: -631113621
+      wasteland bg_37: 930370114
+      wasteland bg_38: 2132001800
+      wasteland bg_39: -1761354805
+      wasteland bg_4: -835116735
+      wasteland bg_40: 231943459
+      wasteland bg_41: 690846029
+      wasteland bg_42: -947723576
+      wasteland bg_43: 994667900
+      wasteland bg_44: -744795800
+      wasteland bg_45: -1268179421
+      wasteland bg_46: 1748063178
+      wasteland bg_47: -1107660472
+      wasteland bg_48: 574172665
+      wasteland bg_49: -1541279360
+      wasteland bg_5: -1432452509
+      wasteland bg_50: 1139495832
+      wasteland bg_51: 350085314
+      wasteland bg_52: -789878233
+      wasteland bg_53: 83493188
+      wasteland bg_54: 1628483914
+      wasteland bg_55: -1560339484
+      wasteland bg_56: -69025908
+      wasteland bg_57: -1606693977
+      wasteland bg_58: -378910451
+      wasteland bg_59: 1720829105
+      wasteland bg_6: 1956773016
+      wasteland bg_60: -997896391
+      wasteland bg_61: -1054490171
+      wasteland bg_7: -1439473024
+      wasteland bg_8: 1341045564
+      wasteland bg_9: -724299204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
